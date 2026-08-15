@@ -6,7 +6,7 @@
 
 即時辨識遊戲 EXP，將每一次練功轉換成直觀的進度、速度、曲線與統計報告。
 
-[下載最新版本](https://github.com/ayzn0524/MStarBotEXP/releases/latest) · [查看所有版本](https://github.com/ayzn0524/MStarBotEXP/releases)
+[查看最新版本與更新](https://github.com/ayzn0524/MStarBotEXP/releases/latest) · [查看所有版本](https://github.com/ayzn0524/MStarBotEXP/releases)
 
 </div>
 
@@ -31,22 +31,24 @@
 
 程式右上角會依目前遊戲與解析度顯示正式支援狀態；未列入的組合會標示為不支援。
 
-## 安裝
+## 安裝與更新
 
-1. 前往[最新 Release](https://github.com/ayzn0524/MStarBotEXP/releases/latest)。
-2. 下載完整主程式壓縮檔。
-3. 完整解壓縮到獨立資料夾。
-4. 執行 `星瞳經驗辨識工具.exe`。
-5. 選擇遊戲並綁定視窗；確認 EXP 顯示後按「開始」進行統計。
+### 首次安裝
 
-## 更新
+首次安裝需要標示為「完整主程式」的 PyInstaller onedir 壓縮檔。完整解壓縮到獨立資料夾後，執行 `星瞳經驗辨識工具.exe`；不要只複製 EXE。
 
-舊版與目前版本仍使用 `ayzn0524/MStarBotEXP` 作為正式更新來源。請保留完整程式資料夾結構，避免只移動 EXE 導致辨識或更新元件缺失。
+### 既有版本更新
+
+程式會從 `ayzn0524/MStarBotEXP` 檢查正式 Release。Release 中的 `XingTongExpRecognizer_update.zip` 是給既有完整程式使用的編譯更新包，不是獨立首次安裝包。
+
+1. 優先使用程式內建「檢查更新」。
+2. 手動更新時先關閉程式，再依 Release 說明套用更新包。
+3. 保留完整 onedir 資料夾結構，避免 OCR runtime 或相依檔案缺失。
 
 ## 文件與問題回報
 
 - [常見問題](docs/FAQ.md)
-- [版本與下載](https://github.com/ayzn0524/MStarBotEXP/releases)
+- [版本與更新](https://github.com/ayzn0524/MStarBotEXP/releases)
 - [提出問題](https://github.com/XingTongTools/XingTong-EXP/issues)
 
 ## 公開範圍
