@@ -16,7 +16,7 @@
 
 綁定遊戲視窗後立即預覽目前等級、EXP、升等進度及正式支援狀態；按下「開始」後才建立本次統計基準。
 
-![星瞳經驗辨識工具 Artale 即時 EXP 觀測介面](assets/main-artale-v0410.png)
+![星瞳經驗辨識工具新楓之谷經典版即時 EXP 觀測介面](assets/main-classic-v0410.png)
 
 ### 懸浮 HUD
 
