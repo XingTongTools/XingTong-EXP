@@ -60,11 +60,8 @@
 
 ### 既有版本更新
 
-程式會從 `ayzn0524/MStarBotEXP` 檢查正式 Release。Release 中的 `XingTongExpRecognizer_update.zip` 是給既有完整程式使用的編譯更新包，不是獨立首次安裝包。
-
 1. 優先使用程式內建「檢查更新」。
 2. 手動更新時先關閉程式，再依 Release 說明套用更新包。
-3. 保留完整 onedir 資料夾結構，避免 OCR runtime 或相依檔案缺失。
 
 ## 文件與問題回報
 
