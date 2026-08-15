@@ -4,7 +4,7 @@
 
 ### XingTong EXP
 
-即時辨識遊戲 EXP，將每一次練功轉換成直觀的進度、速度、曲線與統計報告。
+支援 **楓星、Artale、新楓之谷：經典版**。即時辨識遊戲 EXP，將每一次練功轉換成直觀的進度、速度、曲線與統計報告。
 
 [查看最新版本與更新](https://github.com/ayzn0524/MStarBotEXP/releases/latest) · [查看所有版本](https://github.com/ayzn0524/MStarBotEXP/releases)
 
