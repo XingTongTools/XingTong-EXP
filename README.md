@@ -10,6 +10,27 @@
 
 </div>
 
+## 介面預覽
+
+### 即時 EXP 觀測
+
+綁定遊戲視窗後立即預覽目前等級、EXP、升等進度及正式支援狀態；按下「開始」後才建立本次統計基準。
+
+![星瞳經驗辨識工具 Artale 即時 EXP 觀測介面](assets/main-artale-v0410.png)
+
+### 懸浮 HUD
+
+可在遊戲旁持續查看目前 EXP、EXP／分、本次累積、10 分鐘預估、升等預估及即時曲線。
+
+<p align="center">
+  <img src="assets/hud-expanded.png" alt="星瞳經驗辨識工具懸浮 HUD" width="390">
+</p>
+
+### 星瞳分析艙
+
+停止工作階段後可查看 EXP／分趨勢、累積 EXP、等級里程碑、本次洞察與區間比較，並輸出 CSV 與 PNG 完整報告。
+
+![星瞳分析艙完整統計報告](assets/analytics-report.png)
 ## 核心功能
 
 - 遊戲視窗自動綁定與即時 EXP OCR
