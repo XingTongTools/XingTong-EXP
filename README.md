@@ -6,7 +6,7 @@
 
 支援 **楓星、Artale、新楓之谷：經典版**。即時辨識遊戲 EXP，將每一次練功轉換成直觀的進度、速度、曲線與統計報告。
 
-[下載完整主程式](https://github.com/ayzn0524/MStarBotEXP/releases/latest/download/XingTongExpRecognizer.zip) · [查看所有版本](https://github.com/ayzn0524/MStarBotEXP/releases)
+[下載完整主程式](https://github.com/ayzn0524/MStarBotEXP/releases/latest/download/XingTongExpRecognizer.rar) · [查看所有版本](https://github.com/ayzn0524/MStarBotEXP/releases)
 
 </div>
 
