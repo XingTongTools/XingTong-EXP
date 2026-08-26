@@ -72,3 +72,11 @@
 ## 公開範圍
 
 此 Repository 用於產品介紹、文件與正式下載導向，不包含核心 Python 原始碼。
+
+## 贊助支持
+
+歐付寶會員編號：`2072238`
+
+<a href="https://p.opay.tw/W5GOK"><img src="https://payment.opay.tw/Content/themes/WebStyle201404/images/allpay.png" alt="前往歐付寶贊助頁面" /></a>
+
+若圖片未顯示，也可直接前往[歐付寶贊助頁面](https://p.opay.tw/W5GOK)。
